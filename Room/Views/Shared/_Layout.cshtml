@@ -1,0 +1,169 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Tilted Content Slideshow</title>
+    <meta name="description" content="Tilted Content Slideshow: Recreating the FWA.com landing page perspective slider" />
+    <meta name="keywords" content="fwa slider, perspective, 3d, slideshow, animation, web design" />
+    <meta name="author" content="Codrops" />
+    
+  
+
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+
+   @Styles.Render("~/Content/css")
+   @Scripts.Render("~/bundles/modernizr")
+  
+
+  
+    <style>
+    body {
+     font-family: 'Open Sans', sans-serif;
+   
+    }
+
+    a {
+    color: #c0392b;
+   
+    }
+
+  .navbar-default .navbar-brand {
+    color: rgba(179, 68, 68, 1);
+}
+.navbar-default .navbar-brand {
+    color: rgba(255, 255, 255, 1);
+}
+.navbar-default {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    background-color: rgba(0, 150, 136, 1);
+    border-width:0px;
+   
+}
+.navbar-default .navbar-nav>li>a {
+    color: rgba(255, 255, 255, 1);
+    background-color: rgba(0, 150, 136, 1);
+}
+.navbar-default .navbar-nav>li>a:hover,
+.navbar-default .navbar-nav>li>a:focus {
+    color: rgba(255, 255, 255, 1);
+    background-color: rgba(25, 160, 148, 1);
+}
+.navbar-default .navbar-nav>.active>a,
+.navbar-default .navbar-nav>.active>a:hover,
+.navbar-default .navbar-nav>.active>a:focus {
+    color: rgba(255, 255, 255, 1);
+    background-color: rgba(25, 160, 148, 1);
+}
+.navbar-default .navbar-toggle {
+    border-color: #19a094;
+}
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus {
+    background-color: #19a094;
+}
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #19a094;
+}
+.navbar-default .navbar-toggle:hover .icon-bar,
+.navbar-default .navbar-toggle:focus .icon-bar {
+    background-color: #009688;
+}
+
+        </style>
+
+   
+
+</head>
+<body>
+       
+    <div class="navbar navbar-default navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <div class="navbar-brand">
+                    <img class="pull-left" src="https://upload.wikimedia.org/wikipedia/commons/2/28/Prince_of_Songkla_University_Emblem.png" style="width:35px; margin-right:10px; margin-top:5px" />
+                    @Html.ActionLink("Domitory PSU Phuket University", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+                </div>
+
+            </div>
+
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav" style="margin-top:15px">
+                    
+                    
+                    @if (Session["UserID"] != null)
+                    {
+                                <li>@Html.ActionLink("ห้องพัก", "Index", "Roomadds")</li>
+                                <li>@Html.ActionLink("นักศึกษา", "Index", "Students")</li>
+                                <li>@Html.ActionLink("จัดการพนักงาน", "Index", "Employees")</li>
+
+                    }
+                    else
+                    {
+                        <li>@Html.ActionLink("หน้าหลัก", "Index", "Home")</li>
+                        <li>@Html.ActionLink("เกี่ยวกับ", "About", "Home")</li>
+                        <li>@Html.ActionLink("ติดต่อสอบถาม", "Contact", "Home")</li>
+                        <li>@Html.ActionLink("ดูห้องว่าง", "Room", "Roomadds")</li>
+                    }
+
+
+
+                </ul>
+
+                <ul class="nav navbar-nav navbar-right " style="margin-top:15px" align="right">
+                   
+                    @if (Session["UserID"] != null)
+                    {
+                        <li>@Html.ActionLink("Welcome "+ @Session["UserName"].ToString(), "Index", "Home") </li>
+                        <li>@Html.ActionLink("Logout", "LogOut", "Home")</li>
+
+
+
+                    }
+                    else
+                    {
+                        <li>@Html.ActionLink("Login", "Login", "Home")</li>
+                    }
+
+
+                </ul>
+
+
+
+                
+            </div>
+        </div>
+    </div>
+   
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - Domitories PSU Phuket System </p>
+        </footer>
+    </div>
+
+   
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    
+
+    @RenderSection("scripts", required: false)
+   
+  
+
+    
+</body>
+</html>

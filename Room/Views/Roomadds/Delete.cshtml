@@ -1,0 +1,73 @@
+﻿@model Room.Models.Roomadd
+
+@{
+    ViewBag.Title = "Delete";
+}
+<br>
+<br>
+<h2>ลบห้องพัก</h2>
+
+<h3>คุณต้องการลบจริงหรือไม่ ?</h3>
+<div>
+    
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            หลายเลขห้องพัก
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.RoomNo)
+        </dd>
+
+        <dt>
+            ประเภทห้องพัก
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Roomtype)
+        </dd>
+
+        <dt>
+            ราคา
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Price)
+        </dd>
+
+        <dt>
+           สถานะห้องพัก
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Status)
+        </dd>
+
+        <dt>
+           รหัสนักศึกษาคนที่1
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.StudentID)
+        </dd>
+
+        <dt>
+            รหัสนักศึกษาคนที่2
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.StudentID2)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

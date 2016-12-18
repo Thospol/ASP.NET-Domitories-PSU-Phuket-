@@ -1,0 +1,71 @@
+﻿@model IEnumerable<Room.Models.Employee>
+
+@{
+    ViewBag.Title = "Index";
+}
+<br>
+<br>
+
+<h2 class="text-center" style="margin-top:20px">จัดการพนักงาน</h2>
+<div class="col-md-12" align="center" style="margin-top:15px">
+    <button class="btn btn-primary" style="margin-left:5px" onclick="location.href='@Url.Action("Create", "Employees")'">
+        <i class="glyphicon glyphicon-plus"> </i>
+        <label>สร้างข้อมูลพนักงานใหม่</label>
+    </button>
+</div>
+
+
+    </p>
+<div class="table-responsive">
+<table class="table table-hover">
+    <tr>
+        <th style="text-align:center;">
+            รหัสพนักงาน
+        </th>
+        <th style="text-align:center;">
+           รหัสผ่าน
+        </th>
+        <th style="text-align:center;">
+            ชื่อ
+        </th>
+        <th style="text-align:center;">
+           นามสกุล
+        </th>
+        <th style="text-align:center;"><label>จัดการข้อมูล</label></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr style="text-align:center;">
+        <td>
+            @Html.DisplayFor(modelItem => item.empid)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.password)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.surname)
+        </td>
+        
+        <td>
+            <button class="btn btn-warning" onclick="location.href='@Url.Action("Edit","Employees",new { id = item.ID })'">
+                <span class="glyphicon glyphicon-pencil"></span>
+            </button>
+
+            <button class="btn btn-success" style="margin-left:5px" onclick="location.href='@Url.Action("Details","Employees",new { id = item.ID })'">
+                <span class="glyphicon glyphicon-list-alt"></span>
+            </button>
+
+            <!-- @Html.ActionLink("Details", "Details", new { id = item.ID }) -->
+            <button class="btn btn-danger" style="margin-left:5px" onclick="location.href='@Url.Action("Delete","Employees",new { id = item.ID })'">
+                <span class="glyphicon glyphicon-trash"></span>
+            </button>
+           
+        </td>
+    </tr>
+}
+
+</table>
+    </div>

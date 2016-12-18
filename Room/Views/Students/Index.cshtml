@@ -1,0 +1,94 @@
+﻿@model IEnumerable<Room.Models.Student>
+
+@{
+    ViewBag.Title = "Index";
+}
+<br>
+<br>
+<h2 style="text-align:center;">จัดการนักศึกษา</h2>
+
+
+
+    <div class="col-md-12" align="center" style="margin-top:15px">
+        <button class="btn btn-primary" style="margin-left:5px" onclick="location.href='@Url.Action("Create", "Students")'">
+            <i class="glyphicon glyphicon-plus"> </i>
+            <label>สร้างข้อมูลนักศึกษาใหม่</label>
+        </button>
+    </div>
+   <br>
+<br>
+
+   <!--@Html.ActionLink("Create New", "Create")--> 
+
+<div class="table-responsive">
+    <table class="table table-hover">
+        <tr>
+            <th style="text-align:center;">
+                <i class="glyphicon glyphicon-pencil"> </i> 
+               รหัสนักศึกษา
+            </th>
+            <th style="text-align:center;">
+                <i class="glyphicon glyphicon-pencil"> </i>
+                ชื่อ
+            </th>
+            <th style="text-align:center;">
+                <i class="glyphicon glyphicon-pencil"> </i>
+                นามสกุล
+            </th>
+            <th style="text-align:center;">
+                <i class="glyphicon glyphicon-pencil"> </i>
+                เบอร์โทรศัพท์มือถือ
+            </th>
+            <th style="text-align:center;">
+                <i class="glyphicon glyphicon-pencil"> </i>
+                เลขห้อง
+            </th>
+            
+            <th style="text-align:center;">
+                <i class="glyphicon glyphicon-pencil"> </i>
+                จัดการข้อมูล
+            </th>
+            
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr style="text-align:center;">
+                <td>
+                    @Html.DisplayFor(modelItem => item.StudentID)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Fname)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Lname)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Phone)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.RoomNo)
+                </td>
+               
+                <td>
+
+                    <button class="btn btn-warning" onclick="location.href='@Url.Action("Edit","Students",new { id = item.ID })'">
+                        <span class="glyphicon glyphicon-pencil"></span>
+                    </button>
+
+                    <button class="btn btn-success" style="margin-left:5px" onclick="location.href='@Url.Action("Details","Students",new { id = item.ID })'">
+                        <span class="glyphicon glyphicon-list-alt"></span>
+                    </button>
+
+                 
+                    <button class="btn btn-danger" style="margin-left:5px" onclick="location.href='@Url.Action("Delete","Students",new { id = item.ID })'">
+                        <span class="glyphicon glyphicon-trash"></span>
+                    </button>
+
+           
+                </td>
+            </tr>
+        }
+
+    </table>
+</div>

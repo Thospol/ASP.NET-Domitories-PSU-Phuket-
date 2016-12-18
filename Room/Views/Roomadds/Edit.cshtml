@@ -1,0 +1,131 @@
+﻿@model Room.Models.Roomadd
+
+@{
+    ViewBag.Title = "Edit";
+}
+<br>
+<br>
+<h2>แก้ไขห้องพัก</h2>
+
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="form-horizontal">
+       
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        @Html.HiddenFor(model => model.ID)
+
+        <div class="form-group">
+            @Html.Label("หมายเลขห้อง", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.RoomNo, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.RoomNo, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.Label("ประเภทห้องพัก", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @{
+                    List<SelectListItem> listItems = new List<SelectListItem>();
+                    listItems.Add(new SelectListItem
+                    {
+                        Text = "Standard",
+                        Value = "Standard",
+                        Selected = true
+                    });
+                    listItems.Add(new SelectListItem
+                    {
+                        Text = "Air",
+                        Value = "Air"
+                    });
+
+                }
+
+                @Html.DropDownListFor(model => model.Roomtype, listItems, new { @class = "form-control" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.Label("ราคา", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @{
+                    List<SelectListItem> listItems2 = new List<SelectListItem>();
+                    listItems2.Add(new SelectListItem
+                    {
+                        Text = "4300",
+                        Value = "4300"
+                    });
+                    listItems2.Add(new SelectListItem
+                    {
+                        Text = "7000",
+                        Value = "7000",
+                        Selected = true
+                    });
+
+                }
+
+                @Html.DropDownListFor(model => model.Price, listItems2, new { @class = "form-control" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.Label("สถานะห้องพัก", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+
+                @{
+                    List<SelectListItem> listItems3 = new List<SelectListItem>();
+                    listItems3.Add(new SelectListItem
+                    {
+                        Text = "Busy",
+                        Value = "Busy"
+                    });
+                    listItems3.Add(new SelectListItem
+                    {
+                        Text = "Idle",
+                        Value = "Idle",
+                        Selected = true
+                    });
+                    
+                }
+
+                @Html.DropDownListFor(model => model.Status, listItems3, new { @class = "form-control" })
+            
+               
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.Label("รหัสนักศึกษาคนที่1", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.StudentID, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.StudentID, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.Label("รหัสนักศึกษาคนที่2", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.StudentID2, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.StudentID2, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <button class="btn btn-success" >Save</button>
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

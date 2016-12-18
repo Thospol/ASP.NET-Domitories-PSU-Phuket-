@@ -1,0 +1,226 @@
+c:\users\witsanu\documents\visual studio 2015\Projects\Room\Room\bin\roslyn\csc.exe
+c:\users\witsanu\documents\visual studio 2015\Projects\Room\Room\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\witsanu\documents\visual studio 2015\Projects\Room\Room\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\witsanu\documents\visual studio 2015\Projects\Room\Room\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\witsanu\documents\visual studio 2015\Projects\Room\Room\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\witsanu\documents\visual studio 2015\Projects\Room\Room\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\witsanu\documents\visual studio 2015\Projects\Room\Room\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\witsanu\documents\visual studio 2015\Projects\Room\Room\bin\roslyn\System.Collections.Immutable.dll
+c:\users\witsanu\documents\visual studio 2015\Projects\Room\Room\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\witsanu\documents\visual studio 2015\Projects\Room\Room\bin\roslyn\vbc.exe
+c:\users\witsanu\documents\visual studio 2015\Projects\Room\Room\bin\roslyn\VBCSCompiler.exe
+c:\users\witsanu\documents\visual studio 2015\Projects\Room\Room\bin\roslyn\VBCSCompiler.exe.config
+c:\users\witsanu\documents\visual studio 2015\Projects\Room\Room\bin\Room.dll.config
+c:\users\witsanu\documents\visual studio 2015\Projects\Room\Room\bin\Room.dll
+c:\users\witsanu\documents\visual studio 2015\Projects\Room\Room\bin\Room.pdb
+c:\users\witsanu\documents\visual studio 2015\Projects\Room\Room\bin\Antlr3.Runtime.dll
+c:\users\witsanu\documents\visual studio 2015\Projects\Room\Room\bin\EntityFramework.dll
+c:\users\witsanu\documents\visual studio 2015\Projects\Room\Room\bin\EntityFramework.SqlServer.dll
+c:\users\witsanu\documents\visual studio 2015\Projects\Room\Room\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\witsanu\documents\visual studio 2015\Projects\Room\Room\bin\Microsoft.Web.Infrastructure.dll
+c:\users\witsanu\documents\visual studio 2015\Projects\Room\Room\bin\Newtonsoft.Json.dll
+c:\users\witsanu\documents\visual studio 2015\Projects\Room\Room\bin\System.Web.Helpers.dll
+c:\users\witsanu\documents\visual studio 2015\Projects\Room\Room\bin\System.Web.Mvc.dll
+c:\users\witsanu\documents\visual studio 2015\Projects\Room\Room\bin\System.Web.Optimization.dll
+c:\users\witsanu\documents\visual studio 2015\Projects\Room\Room\bin\System.Web.Razor.dll
+c:\users\witsanu\documents\visual studio 2015\Projects\Room\Room\bin\System.Web.WebPages.Deployment.dll
+c:\users\witsanu\documents\visual studio 2015\Projects\Room\Room\bin\System.Web.WebPages.dll
+c:\users\witsanu\documents\visual studio 2015\Projects\Room\Room\bin\System.Web.WebPages.Razor.dll
+c:\users\witsanu\documents\visual studio 2015\Projects\Room\Room\bin\WebGrease.dll
+c:\users\witsanu\documents\visual studio 2015\Projects\Room\Room\bin\EntityFramework.xml
+c:\users\witsanu\documents\visual studio 2015\Projects\Room\Room\bin\EntityFramework.SqlServer.xml
+c:\users\witsanu\documents\visual studio 2015\Projects\Room\Room\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\witsanu\documents\visual studio 2015\Projects\Room\Room\bin\System.Web.Helpers.xml
+c:\users\witsanu\documents\visual studio 2015\Projects\Room\Room\bin\System.Web.Mvc.xml
+c:\users\witsanu\documents\visual studio 2015\Projects\Room\Room\bin\System.Web.Optimization.xml
+c:\users\witsanu\documents\visual studio 2015\Projects\Room\Room\bin\System.Web.Razor.xml
+c:\users\witsanu\documents\visual studio 2015\Projects\Room\Room\bin\System.Web.WebPages.xml
+c:\users\witsanu\documents\visual studio 2015\Projects\Room\Room\bin\System.Web.WebPages.Deployment.xml
+c:\users\witsanu\documents\visual studio 2015\Projects\Room\Room\bin\System.Web.WebPages.Razor.xml
+c:\users\witsanu\documents\visual studio 2015\Projects\Room\Room\bin\Antlr3.Runtime.pdb
+c:\users\witsanu\documents\visual studio 2015\Projects\Room\Room\bin\Newtonsoft.Json.xml
+c:\users\witsanu\documents\visual studio 2015\Projects\Room\Room\obj\Debug\Room.csprojResolveAssemblyReference.cache
+c:\users\witsanu\documents\visual studio 2015\Projects\Room\Room\obj\Debug\Room.dll
+c:\users\witsanu\documents\visual studio 2015\Projects\Room\Room\obj\Debug\Room.pdb
+C:\Users\MP05022539\Desktop\dotnet\Room\Room\Room\bin\roslyn\csc.exe
+C:\Users\MP05022539\Desktop\dotnet\Room\Room\Room\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MP05022539\Desktop\dotnet\Room\Room\Room\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MP05022539\Desktop\dotnet\Room\Room\Room\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MP05022539\Desktop\dotnet\Room\Room\Room\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MP05022539\Desktop\dotnet\Room\Room\Room\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MP05022539\Desktop\dotnet\Room\Room\Room\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MP05022539\Desktop\dotnet\Room\Room\Room\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MP05022539\Desktop\dotnet\Room\Room\Room\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MP05022539\Desktop\dotnet\Room\Room\Room\bin\roslyn\vbc.exe
+C:\Users\MP05022539\Desktop\dotnet\Room\Room\Room\bin\roslyn\VBCSCompiler.exe
+C:\Users\MP05022539\Desktop\dotnet\Room\Room\Room\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MP05022539\Desktop\dotnet\Room\Room\Room\bin\Room.dll.config
+C:\Users\MP05022539\Desktop\dotnet\Room\Room\Room\bin\Room.dll
+C:\Users\MP05022539\Desktop\dotnet\Room\Room\Room\bin\Room.pdb
+C:\Users\MP05022539\Desktop\dotnet\Room\Room\Room\bin\Antlr3.Runtime.dll
+C:\Users\MP05022539\Desktop\dotnet\Room\Room\Room\bin\EntityFramework.dll
+C:\Users\MP05022539\Desktop\dotnet\Room\Room\Room\bin\EntityFramework.SqlServer.dll
+C:\Users\MP05022539\Desktop\dotnet\Room\Room\Room\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MP05022539\Desktop\dotnet\Room\Room\Room\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MP05022539\Desktop\dotnet\Room\Room\Room\bin\Newtonsoft.Json.dll
+C:\Users\MP05022539\Desktop\dotnet\Room\Room\Room\bin\System.Web.Helpers.dll
+C:\Users\MP05022539\Desktop\dotnet\Room\Room\Room\bin\System.Web.Mvc.dll
+C:\Users\MP05022539\Desktop\dotnet\Room\Room\Room\bin\System.Web.Optimization.dll
+C:\Users\MP05022539\Desktop\dotnet\Room\Room\Room\bin\System.Web.Razor.dll
+C:\Users\MP05022539\Desktop\dotnet\Room\Room\Room\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MP05022539\Desktop\dotnet\Room\Room\Room\bin\System.Web.WebPages.dll
+C:\Users\MP05022539\Desktop\dotnet\Room\Room\Room\bin\System.Web.WebPages.Razor.dll
+C:\Users\MP05022539\Desktop\dotnet\Room\Room\Room\bin\WebGrease.dll
+C:\Users\MP05022539\Desktop\dotnet\Room\Room\Room\bin\EntityFramework.xml
+C:\Users\MP05022539\Desktop\dotnet\Room\Room\Room\bin\EntityFramework.SqlServer.xml
+C:\Users\MP05022539\Desktop\dotnet\Room\Room\Room\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MP05022539\Desktop\dotnet\Room\Room\Room\bin\System.Web.Helpers.xml
+C:\Users\MP05022539\Desktop\dotnet\Room\Room\Room\bin\System.Web.Mvc.xml
+C:\Users\MP05022539\Desktop\dotnet\Room\Room\Room\bin\System.Web.Optimization.xml
+C:\Users\MP05022539\Desktop\dotnet\Room\Room\Room\bin\System.Web.Razor.xml
+C:\Users\MP05022539\Desktop\dotnet\Room\Room\Room\bin\System.Web.WebPages.xml
+C:\Users\MP05022539\Desktop\dotnet\Room\Room\Room\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MP05022539\Desktop\dotnet\Room\Room\Room\bin\System.Web.WebPages.Razor.xml
+C:\Users\MP05022539\Desktop\dotnet\Room\Room\Room\bin\Antlr3.Runtime.pdb
+C:\Users\MP05022539\Desktop\dotnet\Room\Room\Room\bin\Newtonsoft.Json.xml
+C:\Users\MP05022539\Desktop\dotnet\Room\Room\Room\obj\Debug\Room.csprojResolveAssemblyReference.cache
+C:\Users\MP05022539\Desktop\dotnet\Room\Room\Room\obj\Debug\Room.dll
+C:\Users\MP05022539\Desktop\dotnet\Room\Room\Room\obj\Debug\Room.pdb
+C:\Users\MP05022539\Desktop\dotnet\Room\Room\Room\obj\Debug\Room.Migrations.Initial.resources
+C:\Users\MP05022539\Desktop\dotnet\Room\Room\Room\obj\Debug\Room.csproj.GenerateResource.Cache
+C:\Users\Nee-SE\Downloads\Roombooking\Room\bin\roslyn\csc.exe
+C:\Users\Nee-SE\Downloads\Roombooking\Room\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Nee-SE\Downloads\Roombooking\Room\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nee-SE\Downloads\Roombooking\Room\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Nee-SE\Downloads\Roombooking\Room\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Nee-SE\Downloads\Roombooking\Room\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Nee-SE\Downloads\Roombooking\Room\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Nee-SE\Downloads\Roombooking\Room\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Nee-SE\Downloads\Roombooking\Room\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Nee-SE\Downloads\Roombooking\Room\bin\roslyn\vbc.exe
+C:\Users\Nee-SE\Downloads\Roombooking\Room\bin\roslyn\VBCSCompiler.exe
+C:\Users\Nee-SE\Downloads\Roombooking\Room\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Nee-SE\Downloads\Roombooking\Room\bin\Room.dll.config
+C:\Users\Nee-SE\Downloads\Roombooking\Room\bin\Room.dll
+C:\Users\Nee-SE\Downloads\Roombooking\Room\bin\Room.pdb
+C:\Users\Nee-SE\Downloads\Roombooking\Room\bin\Antlr3.Runtime.dll
+C:\Users\Nee-SE\Downloads\Roombooking\Room\bin\EntityFramework.dll
+C:\Users\Nee-SE\Downloads\Roombooking\Room\bin\EntityFramework.SqlServer.dll
+C:\Users\Nee-SE\Downloads\Roombooking\Room\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nee-SE\Downloads\Roombooking\Room\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nee-SE\Downloads\Roombooking\Room\bin\Newtonsoft.Json.dll
+C:\Users\Nee-SE\Downloads\Roombooking\Room\bin\System.Web.Helpers.dll
+C:\Users\Nee-SE\Downloads\Roombooking\Room\bin\System.Web.Mvc.dll
+C:\Users\Nee-SE\Downloads\Roombooking\Room\bin\System.Web.Optimization.dll
+C:\Users\Nee-SE\Downloads\Roombooking\Room\bin\System.Web.Razor.dll
+C:\Users\Nee-SE\Downloads\Roombooking\Room\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Nee-SE\Downloads\Roombooking\Room\bin\System.Web.WebPages.dll
+C:\Users\Nee-SE\Downloads\Roombooking\Room\bin\System.Web.WebPages.Razor.dll
+C:\Users\Nee-SE\Downloads\Roombooking\Room\bin\WebGrease.dll
+C:\Users\Nee-SE\Downloads\Roombooking\Room\bin\EntityFramework.xml
+C:\Users\Nee-SE\Downloads\Roombooking\Room\bin\EntityFramework.SqlServer.xml
+C:\Users\Nee-SE\Downloads\Roombooking\Room\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nee-SE\Downloads\Roombooking\Room\bin\System.Web.Helpers.xml
+C:\Users\Nee-SE\Downloads\Roombooking\Room\bin\System.Web.Mvc.xml
+C:\Users\Nee-SE\Downloads\Roombooking\Room\bin\System.Web.Optimization.xml
+C:\Users\Nee-SE\Downloads\Roombooking\Room\bin\System.Web.Razor.xml
+C:\Users\Nee-SE\Downloads\Roombooking\Room\bin\System.Web.WebPages.xml
+C:\Users\Nee-SE\Downloads\Roombooking\Room\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Nee-SE\Downloads\Roombooking\Room\bin\System.Web.WebPages.Razor.xml
+C:\Users\Nee-SE\Downloads\Roombooking\Room\bin\Antlr3.Runtime.pdb
+C:\Users\Nee-SE\Downloads\Roombooking\Room\bin\Newtonsoft.Json.xml
+C:\Users\Nee-SE\Downloads\Roombooking\Room\obj\Debug\Room.csprojResolveAssemblyReference.cache
+C:\Users\Nee-SE\Downloads\Roombooking\Room\obj\Debug\Room.Migrations.Initial.resources
+C:\Users\Nee-SE\Downloads\Roombooking\Room\obj\Debug\Room.csproj.GenerateResource.Cache
+C:\Users\Nee-SE\Downloads\Roombooking\Room\obj\Debug\Room.dll
+C:\Users\Nee-SE\Downloads\Roombooking\Room\obj\Debug\Room.pdb
+C:\Users\Witsanu\Downloads\Roombooking\Room\bin\roslyn\csc.exe
+C:\Users\Witsanu\Downloads\Roombooking\Room\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Witsanu\Downloads\Roombooking\Room\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Witsanu\Downloads\Roombooking\Room\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Witsanu\Downloads\Roombooking\Room\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Witsanu\Downloads\Roombooking\Room\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Witsanu\Downloads\Roombooking\Room\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Witsanu\Downloads\Roombooking\Room\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Witsanu\Downloads\Roombooking\Room\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Witsanu\Downloads\Roombooking\Room\bin\roslyn\vbc.exe
+C:\Users\Witsanu\Downloads\Roombooking\Room\bin\roslyn\VBCSCompiler.exe
+C:\Users\Witsanu\Downloads\Roombooking\Room\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Witsanu\Downloads\Roombooking\Room\bin\Room.dll.config
+C:\Users\Witsanu\Downloads\Roombooking\Room\bin\Room.dll
+C:\Users\Witsanu\Downloads\Roombooking\Room\bin\Room.pdb
+C:\Users\Witsanu\Downloads\Roombooking\Room\bin\Antlr3.Runtime.dll
+C:\Users\Witsanu\Downloads\Roombooking\Room\bin\EntityFramework.dll
+C:\Users\Witsanu\Downloads\Roombooking\Room\bin\EntityFramework.SqlServer.dll
+C:\Users\Witsanu\Downloads\Roombooking\Room\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Witsanu\Downloads\Roombooking\Room\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Witsanu\Downloads\Roombooking\Room\bin\Newtonsoft.Json.dll
+C:\Users\Witsanu\Downloads\Roombooking\Room\bin\System.Web.Helpers.dll
+C:\Users\Witsanu\Downloads\Roombooking\Room\bin\System.Web.Mvc.dll
+C:\Users\Witsanu\Downloads\Roombooking\Room\bin\System.Web.Optimization.dll
+C:\Users\Witsanu\Downloads\Roombooking\Room\bin\System.Web.Razor.dll
+C:\Users\Witsanu\Downloads\Roombooking\Room\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Witsanu\Downloads\Roombooking\Room\bin\System.Web.WebPages.dll
+C:\Users\Witsanu\Downloads\Roombooking\Room\bin\System.Web.WebPages.Razor.dll
+C:\Users\Witsanu\Downloads\Roombooking\Room\bin\WebGrease.dll
+C:\Users\Witsanu\Downloads\Roombooking\Room\bin\EntityFramework.xml
+C:\Users\Witsanu\Downloads\Roombooking\Room\bin\EntityFramework.SqlServer.xml
+C:\Users\Witsanu\Downloads\Roombooking\Room\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Witsanu\Downloads\Roombooking\Room\bin\System.Web.Helpers.xml
+C:\Users\Witsanu\Downloads\Roombooking\Room\bin\System.Web.Mvc.xml
+C:\Users\Witsanu\Downloads\Roombooking\Room\bin\System.Web.Optimization.xml
+C:\Users\Witsanu\Downloads\Roombooking\Room\bin\System.Web.Razor.xml
+C:\Users\Witsanu\Downloads\Roombooking\Room\bin\System.Web.WebPages.xml
+C:\Users\Witsanu\Downloads\Roombooking\Room\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Witsanu\Downloads\Roombooking\Room\bin\System.Web.WebPages.Razor.xml
+C:\Users\Witsanu\Downloads\Roombooking\Room\bin\Antlr3.Runtime.pdb
+C:\Users\Witsanu\Downloads\Roombooking\Room\bin\Newtonsoft.Json.xml
+C:\Users\Witsanu\Downloads\Roombooking\Room\obj\Debug\Room.csprojResolveAssemblyReference.cache
+C:\Users\Witsanu\Downloads\Roombooking\Room\obj\Debug\Room.dll
+C:\Users\Witsanu\Downloads\Roombooking\Room\obj\Debug\Room.pdb
+C:\Users\MP05022539\Desktop\ดอดเนท\Room\bin\roslyn\csc.exe
+C:\Users\MP05022539\Desktop\ดอดเนท\Room\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MP05022539\Desktop\ดอดเนท\Room\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MP05022539\Desktop\ดอดเนท\Room\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MP05022539\Desktop\ดอดเนท\Room\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MP05022539\Desktop\ดอดเนท\Room\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MP05022539\Desktop\ดอดเนท\Room\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MP05022539\Desktop\ดอดเนท\Room\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MP05022539\Desktop\ดอดเนท\Room\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MP05022539\Desktop\ดอดเนท\Room\bin\roslyn\vbc.exe
+C:\Users\MP05022539\Desktop\ดอดเนท\Room\bin\roslyn\VBCSCompiler.exe
+C:\Users\MP05022539\Desktop\ดอดเนท\Room\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MP05022539\Desktop\ดอดเนท\Room\bin\Room.dll.config
+C:\Users\MP05022539\Desktop\ดอดเนท\Room\bin\Room.dll
+C:\Users\MP05022539\Desktop\ดอดเนท\Room\bin\Room.pdb
+C:\Users\MP05022539\Desktop\ดอดเนท\Room\bin\Antlr3.Runtime.dll
+C:\Users\MP05022539\Desktop\ดอดเนท\Room\bin\EntityFramework.dll
+C:\Users\MP05022539\Desktop\ดอดเนท\Room\bin\EntityFramework.SqlServer.dll
+C:\Users\MP05022539\Desktop\ดอดเนท\Room\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MP05022539\Desktop\ดอดเนท\Room\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MP05022539\Desktop\ดอดเนท\Room\bin\Newtonsoft.Json.dll
+C:\Users\MP05022539\Desktop\ดอดเนท\Room\bin\System.Web.Helpers.dll
+C:\Users\MP05022539\Desktop\ดอดเนท\Room\bin\System.Web.Mvc.dll
+C:\Users\MP05022539\Desktop\ดอดเนท\Room\bin\System.Web.Optimization.dll
+C:\Users\MP05022539\Desktop\ดอดเนท\Room\bin\System.Web.Razor.dll
+C:\Users\MP05022539\Desktop\ดอดเนท\Room\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MP05022539\Desktop\ดอดเนท\Room\bin\System.Web.WebPages.dll
+C:\Users\MP05022539\Desktop\ดอดเนท\Room\bin\System.Web.WebPages.Razor.dll
+C:\Users\MP05022539\Desktop\ดอดเนท\Room\bin\WebGrease.dll
+C:\Users\MP05022539\Desktop\ดอดเนท\Room\bin\EntityFramework.xml
+C:\Users\MP05022539\Desktop\ดอดเนท\Room\bin\EntityFramework.SqlServer.xml
+C:\Users\MP05022539\Desktop\ดอดเนท\Room\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MP05022539\Desktop\ดอดเนท\Room\bin\System.Web.Helpers.xml
+C:\Users\MP05022539\Desktop\ดอดเนท\Room\bin\System.Web.Mvc.xml
+C:\Users\MP05022539\Desktop\ดอดเนท\Room\bin\System.Web.Optimization.xml
+C:\Users\MP05022539\Desktop\ดอดเนท\Room\bin\System.Web.Razor.xml
+C:\Users\MP05022539\Desktop\ดอดเนท\Room\bin\System.Web.WebPages.xml
+C:\Users\MP05022539\Desktop\ดอดเนท\Room\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MP05022539\Desktop\ดอดเนท\Room\bin\System.Web.WebPages.Razor.xml
+C:\Users\MP05022539\Desktop\ดอดเนท\Room\bin\Antlr3.Runtime.pdb
+C:\Users\MP05022539\Desktop\ดอดเนท\Room\bin\Newtonsoft.Json.xml
+C:\Users\MP05022539\Desktop\ดอดเนท\Room\obj\Debug\Room.csprojResolveAssemblyReference.cache
+C:\Users\MP05022539\Desktop\ดอดเนท\Room\obj\Debug\Room.dll
+C:\Users\MP05022539\Desktop\ดอดเนท\Room\obj\Debug\Room.pdb
+C:\Users\MP05022539\Desktop\ดอดเนท\Room\obj\Debug\Room.Migrations.Initial.resources
+C:\Users\MP05022539\Desktop\ดอดเนท\Room\obj\Debug\Room.csproj.GenerateResource.Cache
